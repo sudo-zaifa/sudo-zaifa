@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=sudo-zaifa&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<h1 align="center">Zaifa here</h1>
+<h1 align="center">Sudo-Zaifa </h1>
 <p align="center">
   <img src="assets/avatar.png" alt="Avatar" width="200" />
 </p>
