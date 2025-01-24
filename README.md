@@ -4,7 +4,7 @@
 
 <h1 align="center">Sudo-Zaifa </h1>
 <p align="center">
-  <img src="assets/avatar.png" alt="Avatar" width="200" />
+ <!-- <img src="assets/avatar.png" alt="Avatar" width="200" />  -->
 </p>
 
 <h3 align="center">Cyber Security Student</h3>
@@ -13,9 +13,9 @@
 ## Connect With Me
 
 <p align="center">
- <a href="https://" target="_blank">
+<!-- <a href="https://" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="zaifa.site" />
- </a>
+ </a> -->
  <a href="https://www.linkedin.com/in/muhammad-huzaifa-cys" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="zaifa" />
  </a>
@@ -48,10 +48,12 @@
 
 <br />
 
+<!-- 
 ## Top Open Source -
 
 [![Society-Complaint-Management-system](https://github-readme-stats.vercel.app/api/pin/?username=sudo-zaifa&repo=anime-search-engine&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sudo-zaifa/)
-
+ -->
+ 
 <p align="center">
   <a href="https://github.com/sudo-zaifa">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-zaifa&theme=radical&border=7F3FBF&background=0D1117" alt="Zaifa's GitHub streak"/>
