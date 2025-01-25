@@ -11,6 +11,9 @@
 ## Connect With Me
 
 <p align="center">
+  <a href="https://sudo-zaifa.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/website-0077B5?style=for-the-badge&logo=website&logoColor=white" alt="LinkedIn" style="border-radius: 16px;"/>
+ </a>
  <a href="https://www.linkedin.com/in/muhammad-huzaifa-cys" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 16px;"/>
  </a>
